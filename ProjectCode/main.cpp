@@ -33,22 +33,22 @@
 //////////Variables Globales//////////
 
 /**
- * @brief Contiene el codigo del color negro
+ * @brief Constante que tiene el codigo del color negro
  * 
  */
 const cv::Scalar SCALAR_BLACK = cv::Scalar(0.0, 0.0, 0.0);
 /**
- * @brief Contiene el codigo del color blanco
+ * @brief Constante que tiene el codigo del color blanco
  * 
  */
 const cv::Scalar SCALAR_WHITE = cv::Scalar(255.0, 255.0, 255.0);
 /**
- * @brief Contiene el codigo del color amarillo
+ * @brief Constante que tiene el codigo del color amarillo
  * 
  */
 const cv::Scalar SCALAR_YELLOW = cv::Scalar(0.0, 255.0, 255.0);
 /**
- * @brief Contiene el codigo del color verde
+ * @brief Constante que tiene el codigo del color verde
  * 
  */
 const cv::Scalar SCALAR_GREEN = cv::Scalar(0.0, 200.0, 0.0);
