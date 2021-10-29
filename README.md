@@ -5,3 +5,7 @@ Programa inteligente de conteo de vehículos en vias publicas con el fin de reco
 
 ## Tutorial
 https://drive.google.com/file/d/1wzGo8EonfgMrdjR_OifJFwpfplNEsMsy/view?usp=sharing
+
+# Código fuente
+Desarrollado en su totalidad en c++, con documentación en Doxygen
+
