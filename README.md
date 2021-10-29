@@ -3,7 +3,7 @@ _Programa inteligente de conteo de vehículos en vias publicas con el fin de rec
 
 ## 🔧 Tutorial
 
-[Video Tutorial](https://drive.google.com/file/d/1wzGo8EonfgMrdjR_OifJFwpfplNEsMsy/view?usp=sharing)
+[Video](https://drive.google.com/file/d/1wzGo8EonfgMrdjR_OifJFwpfplNEsMsy/view?usp=sharing)
 
 ## 🛠️ Construcción
 
